@@ -12,27 +12,27 @@ The files displayed here were created in order to facilitate the collection of d
 
 **Contents of Repository:**
 	
-	|     |     | --- |
-	| --- | --- | --- |
-	| **Folder**   		| **File Name** 					| **Description**|
-	| <>		   		| 01_first_call_dataset.py			| Creates a data set that will be populated by the first_call_program.py |
-	| <>           		| 02_follow_up_1_dataset.py			| Creates a data set that will be populated by the follow_up1_call_program.py |
-	| <>		   		| 03_call_status.py					| Program to be run in DataNitro inside Call_Status.xlsm; checks on the call status (i.e. progress made) |
-	| <>		   		| 04_postal_status.py				| Program to be run in DataNitro inside Postal_Status.xlsm; checks on the postal status of documents to be sent |
-	| <>           		| 05_first_call_program.py			| Program to be run in DataNitro inside First_call.xlsm; updates contact info, receives and checks data, stores data in data frame and saves raw data (in excel format) as backup|
-	| <>		   		| 06_follow_up1_call_program.py		| Program to be run in DataNitro inside Follow_up1_call.xlsm; updates contact info, receives and checks data, stores data in data frame and saves raw data (in excel format) as backup |
-    | DataCollection	| first_call.xlsm					| Data collection tool for first call |
-	| DataCollection	| follow_up1_call.xlsm				| Data collection tool for first follow up call |
-	| OtherTools		| call_status.xlsm					| Displays status of calls made |
-	| OtherTools		| postal_status.xlsm				| Displays status of documents posted |
-	| BackgroundData	| example_factory_list.csv			| An example of the factory list that feeds into the .py files |
-	| BackgroundData	| example_contact_list.csv			| An example of a factory contact list that feeds into the .py files |
-	| SupportingDocs	| Code_Book.docx					| The codebook used when entering data |
-	| SupportingDocs	| Data_structures_outcomes.docx		| Explanation of general data structures and outcomes at each stage of the call process |
-	| SupportingDocs	| FAQs.docx							| Frequently asked questions tool for use by marketing team |	
-	| SupportingDocs	| First_call_Data_structure.docx	| Explanation of data structure	of first call |
-	| SupportingDocs	| Follow_Up1_data_structure.docx	| Explanation of data structure of first follow up call |
-	| SupportingDocs	| Processes_procedures.docx			| Not entirely up to date explanation of the project processes and procedures |
+|     |     | --- |
+| --- | --- | --- |
+| **Folder**   		| **File Name** 					| **Description**|
+| <>		   		| 01_first_call_dataset.py			| Creates a data set that will be populated by the first_call_program.py |
+| <>           		| 02_follow_up_1_dataset.py			| Creates a data set that will be populated by the follow_up1_call_program.py |
+| <>		   		| 03_call_status.py					| Program to be run in DataNitro inside Call_Status.xlsm; checks on the call status (i.e. progress made) |
+| <>		   		| 04_postal_status.py				| Program to be run in DataNitro inside Postal_Status.xlsm; checks on the postal status of documents to be sent |
+| <>           		| 05_first_call_program.py			| Program to be run in DataNitro inside First_call.xlsm; updates contact info, receives and checks data, stores data in data frame and saves raw data (in excel format) as backup|
+| <>		   		| 06_follow_up1_call_program.py		| Program to be run in DataNitro inside Follow_up1_call.xlsm; updates contact info, receives and checks data, stores data in data frame and saves raw data (in excel format) as backup |
+| DataCollection	| first_call.xlsm					| Data collection tool for first call |
+| DataCollection	| follow_up1_call.xlsm				| Data collection tool for first follow up call |
+| OtherTools		| call_status.xlsm					| Displays status of calls made |
+| OtherTools		| postal_status.xlsm				| Displays status of documents posted |
+| BackgroundData	| example_factory_list.csv			| An example of the factory list that feeds into the .py files |
+| BackgroundData	| example_contact_list.csv			| An example of a factory contact list that feeds into the .py files |
+| SupportingDocs	| Code_Book.docx					| The codebook used when entering data |
+| SupportingDocs	| Data_structures_outcomes.docx		| Explanation of general data structures and outcomes at each stage of the call process |
+| SupportingDocs	| FAQs.docx							| Frequently asked questions tool for use by marketing team |	
+| SupportingDocs	| First_call_Data_structure.docx	| Explanation of data structure	of first call |
+| SupportingDocs	| Follow_Up1_data_structure.docx	| Explanation of data structure of first follow up call |
+| SupportingDocs	| Processes_procedures.docx			| Not entirely up to date explanation of the project processes and procedures |
 
 **NB** files in the BackgroundData folder have had key information removed to preserve anonymity of participating factories. Files presented relate only to the first group of factories that participated (96 in total).
 	
@@ -42,7 +42,7 @@ The key back-end data was contained in the contact list. The contact list was no
 
 **DataNitro:** - DataNitro is an excel add in that executes python scripts in excel. It has its own functions and methods. See the documentation for more information (https://datanitro.com/docs/) . 
 
-** Project Background:** The project that these tools relate to aimed to find the price elasticity of demand for a training program provided by a Dhaka based training centre to supervisors from within RMG factories. The training was comprised of three modules:
+**Project Background:** - The project that these tools relate to aimed to find the price elasticity of demand for a training program provided by a Dhaka based training centre to supervisors from within RMG factories. The training was comprised of three modules:
 	
 	1. P: Production and Work Study
 	2. Q: Quality Control Management 
