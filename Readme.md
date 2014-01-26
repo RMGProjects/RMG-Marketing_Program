@@ -54,15 +54,15 @@ Each factory was randomly assigned to one of the above modules. This module woul
 
 The call process was as follows:
 
-	1. First Call - Calls were made until a decision maker was reached. Once reached the marketing team would pitch the training and mention both the price and the free module. If the decision maker agreed to receive a pack of marketing materials by post, the first call process was deemed to be at an end and that factory would progress to the first follow up call
-	2. Follow Up 1 - Calls were made until the decision maker decided whether or not the factory would send someone to the free module. If they agreed they would progress to the Second Follow Up Call
-	3. Follow Up 2 - This call was made post free module to determine if the factory would purchase more training for their staff. 
+1. First Call - Calls were made until a decision maker was reached. Once reached the marketing team would pitch the training and mention both the price and the free module. If the decision maker agreed to receive a pack of marketing materials by post, the first call process was deemed to be at an end and that factory would progress to the first follow up call
+2. Follow Up 1 - Calls were made until the decision maker decided whether or not the factory would send someone to the free module. If they agreed they would progress to the Second Follow Up Call
+3. Follow Up 2 - This call was made post free module to determine if the factory would purchase more training for their staff. 
 
 **NB** The tools and documents presented here relate only to 1 & 2, 3 has been omitted as the author only has so so much time and energy. The ransomization was done in stata and the .do-files are not presented here. 
 
 The work-flow process during one full day was as follows:
 	
-	1. Check Call Status - to determine which factories need to be called, called again, followed up with etc. 
-	2. Make Calls - select correct data collection tool depending on the nature of the call. 
-	3. Check Postal Status - to determine to which factories the marketing materials needed to be sent. 
-	4. End
+1. Check Call Status - to determine which factories need to be called, called again, followed up with etc. 
+2. Make Calls - select correct data collection tool depending on the nature of the call. 
+3. Check Postal Status - to determine to which factories the marketing materials needed to be sent. 
+4. End
