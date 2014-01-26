@@ -1,0 +1,98 @@
+UID,Fact_name,address,price,module,attempts_fc,attempts_fu1,attempts_fu2,Cnum_orig_off,Cnum_orig_fact,Cnum_gm,Cnum_upd,Cnam_orig,Cnam_gm,Cnam_upd,Cdesig_orig,Cdesig_gm,Cdesig_upd,Cdesig_code,Cemail,first_call,send_docs,docs_sent,fu1_call,free_mod,fu2_call,status
+TEST,TEST,TEST,TEST,TEST,0,0,0,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,0,0,TEST,0,0,0,TEST
+M052,factory1,address1,9250,Q,2,25,0,number1,number1,number1,number1,name1,name1,name1,,,FACTORY INCHARGE,15,,1,1,2013-09-22_18:12:05.096000,,,,Update Call Status Comments from user 1
+M055,factory2,address2,14000,Q,6,0,0,number2,number2,number2,number2,name2,name2,name2,,,CHAIRMAN ,1,,1,0,,,,,Update Call Status Comments from user 2
+M079,factory3,address3,14000,Q,2,0,0,number3,number3,number3,number3,name3,name3,name3,,,AGM PRODUCTION,2,,1,0,,,,,Update Call Status Comments from user 3
+M068,factory4,address4,9250,H,4,7,0,number4,number4,number4,number4,name4,name4,name4,,,HR MANAGER,5,,1,1,2013-10-01_18:29:58.211000,1,,,Update Call Status Comments from user 4
+M075,factory5,address5,14000,P,1,0,0,number5,number5,number5,number5,name5,name5,name5,,,,,,1,0,,,,,Update Call Status Comments from user 5
+M039,factory6,address6,14000,P,3,0,0,number6,number6,number6,number6,name6,name6,name6,,,,,,1,0,,,,,Update Call Status Comments from user 6
+M004,factory7,address7,9250,Q,3,20,0,number7,number7,number7,number7,name7,name7,name7,,,HR MANAGER,5,,1,1,2013-09-22_18:12:05.096000,,,,Update Call Status Comments from user 7
+M043,factory8,address8,14000,Q,5,0,0,number8,number8,number8,number8,name8,name8,name8,,,,,,1,0,,,,,Update Call Status Comments from user 8
+M005,factory9,address9,14000,H,7,0,0,number9,number9,number9,number9,name9,name9,name9,,GM,HR & ADMIN MANAGER,16,,1,0,,,,,Update Call Status Comments from user 9
+M059,factory10,address10,14000,H,2,0,0,number10,number10,number10,number10,name10,name10,name10,,,,,,1,0,,,,,Update Call Status Comments from user 10
+M078,factory11,address11,9250,P,1,0,0,number11,number11,number11,number11,name11,name11,name11,,,,,,1,0,,,,,Update Call Status Comments from user 11
+M002,factory12,address12,9250,H,2,0,0,number12,number12,number12,number12,name12,name12,name12,,,,,,1,0,,,,,Update Call Status Comments from user 12
+M101,factory13,address13,9250,P,2,13,0,number13,number13,number13,number13,name13,name13,name13,,,MANAGING DIRECTOR,3,,1,1,2013-09-22_18:12:05.096000,1,,,Update Call Status Comments from user 13
+M121,factory14,address14,9250,H,6,0,0,number14,number14,number14,number14,name14,name14,name14,,,FACTORY MANAGER,15,,1,0,,,,,Update Call Status Comments from user 14
+M118,factory15,address15,14000,H,6,0,0,number15,number15,number15,number15,name15,name15,name15,,,,,,1,0,,,,,Update Call Status Comments from user 15
+M139,factory16,address16,9250,H,3,0,0,number16,number16,number16,number16,name16,name16,name16,,,,,,1,0,,,,,Update Call Status Comments from user 16
+M129,factory17,address17,9250,Q,2,0,0,number17,number17,number17,number17,name17,name17,name17,,,MANAGER ADMIN,8,,1,0,,,,,Update Call Status Comments from user 17
+M104,factory18,address18,14000,P,3,7,0,number18,number18,number18,number18,name18,name18,name18,,,MARCHENDISER,9,,1,1,2013-09-30_17:24:20.703000,1,,,Update Call Status Comments from user 18
+M095,factory19,address19,9250,P,1,18,0,number19,number19,number19,number19,name19,name19,name19,,,GM PRODUCTION,2,,1,1,2013-09-22_18:12:05.096000,1,1,,Update Call Status Comments from user 19
+M133,factory20,address20,9250,H,10,7,0,number20,number20,number20,number20,name20,name20,name20,,,MANAGER IE & PLANNING,12,,1,1,2013-10-01_18:29:58.211000,1,,,Update Call Status Comments from user 20
+M086,factory21,address21,14000,P,5,4,3,number21,number21,number21,number21,name21,name21,name21,,,GM,2,,1,1,2013-09-23_17:41:55.166000,1,1,,Update Call Status Comments from user 21
+M087,factory22,address22,9250,Q,3,0,0,number22,number22,number22,number22,name22,name22,name22,,,,,,1,0,,,,,Update Call Status Comments from user 22
+M108,factory23,address23,14000,Q,2,11,0,number23,number23,number23,number23,name23,name23,name23,,,HR MANAGER,5,,1,1,2013-09-22_18:12:05.096000,1,,,Update Call Status Comments from user 23
+M103,factory24,address24,9250,H,2,9,4,number24,number24,number24,number24,name24,name24,name24,,,COMPLIENCE MANAGER,6,,1,1,2013-09-23_17:41:55.166000,1,1,,Update Call Status Comments from user 24
+M193,factory25,address25,14000,P,3,1,0,number25,number25,number25,number25,name25,name25,name25,,,DEPUTY MANAGING DIRECTOR,3,,1,1,2013-10-01_18:29:58.211000,1,,,Update Call Status Comments from user 25
+M150,factory26,address26,9250,H,13,9,0,number26,number26,number26,number26,name26,name26,name26,,,HR MANAGER,5,,1,1,2013-10-01_18:29:58.211000,1,,,Update Call Status Comments from user 26
+M169,factory27,address27,14000,P,3,0,0,number27,number27,number27,number27,name27,name27,name27,,,DIRECTOR,4,,1,0,,,,,Update Call Status Comments from user 27
+M183,factory28,address28,14000,H,3,13,0,number28,number28,number28,number28,name28,name28,name28,,,HR MANAGER,5,,1,1,2013-09-23_17:41:55.166000,1,,,Update Call Status Comments from user 28
+M205,factory29,address29,14000,P,2,0,0,number29,number29,number29,number29,name29,name29,name29,,,,,,1,0,,,,,Update Call Status Comments from user 29
+M171,factory30,address30,14000,H,10,13,0,number30,number30,number30,number30,name30,name30,name30,,,MANAGER HR & COMPLIENCE,11,,1,1,2013-09-24_18:11:53.178000,,,,Update Call Status Comments from user 30
+M172,factory31,address31,9250,P,8,7,0,number31,number31,number31,number31,name31,name31,name31,,,GM,2,,1,1,2013-10-01_18:29:58.211000,1,,,Update Call Status Comments from user 31
+M198,factory32,address32,9250,H,1,10,0,number32,number32,number32,number32,name32,name32,name32,,,HR MANAGER,5,,1,1,2013-09-23_17:41:55.166000,1,,,Update Call Status Comments from user 32
+M187,factory33,address33,14000,P,6,4,4,number33,number33,number33,number33,name33,name33,name33,,,IE MANAGER,12,,1,1,2013-09-24_18:11:53.178000,1,1,,Update Call Status Comments from user 33
+M178,factory34,address34,9250,P,1,1,0,number34,number34,number34,number34,name34,name34,name34,,,HR MANAGER,5,,1,1,2013-09-23_17:41:55.166000,1,,,Update Call Status Comments from user 34
+M196,factory35,address35,9250,P,2,9,0,number35,number35,number35,number35,name35,name35,name35,,,AGM HR & COMPLIENCE,11,,1,1,2013-09-23_17:41:55.166000,1,,,Update Call Status Comments from user 35
+M175,factory36,address36,14000,P,3,5,3,number36,number36,number36,number36,name36,name36,name36,,,MANAGER ADMIN & COMPLIENCE,10,,1,1,2013-09-24_18:11:53.178000,1,1,,Update Call Status Comments from user 36
+M303,factory37,address37,14000,Q,6,0,0,number37,number37,number37,number37,name37,name37,name37,,,,,,1,0,,,,,Update Call Status Comments from user 37
+M299,factory38,address38,14000,P,2,0,0,number38,number38,number38,number38,name38,name38,name38,,,,,,1,0,,,,,Update Call Status Comments from user 38
+M258,factory39,address39,9250,Q,2,1,0,number39,number39,number39,number39,name39,name39,name39,,,MANAGER HR,5,,1,1,2013-09-24_18:11:53.178000,1,,,Update Call Status Comments from user 39
+M315,factory40,address40,14000,Q,2,4,0,number40,number40,number40,number40,name40,name40,name40,,,DIRECTOR HR & COMPLIENCE,11,,1,1,2013-09-25_18:07:23.525000,1,,,Update Call Status Comments from user 40
+M237,factory41,address41,14000,Q,4,10,0,number41,number41,number41,number41,name41,name41,name41,,,DIRECTOR,4,,1,1,2013-10-01_18:29:58.211000,1,,,Update Call Status Comments from user 41
+M316,factory42,address42,9250,H,2,0,0,number42,number42,number42,number42,name42,name42,name42,,,,,,1,0,,,,,Update Call Status Comments from user 42
+M242,factory43,address43,9250,P,5,2,0,number43,number43,number43,number43,name43,name43,name43,,,IE MANAGER,12,,1,1,2013-09-30_17:24:20.703000,1,,,Update Call Status Comments from user 43
+M229,factory44,address44,14000,H,1,10,0,number44,number44,number44,number44,name44,name44,name44,,,HR & ADMIN OFFICER,16,,1,1,2013-09-23_17:41:55.166000,,,,Update Call Status Comments from user 44
+M245,factory45,address45,14000,P,4,4,0,number45,number45,number45,number45,name45,name45,name45,,,MANAGER ADMIN,8,,1,1,2013-09-24_18:11:53.178000,1,,,Update Call Status Comments from user 45
+M271,factory46,address46,14000,H,5,6,2,number46,number46,number46,number46,name46,name46,name46,,,MANAGER HR & COMPLIENCE,11,,1,1,2013-09-30_17:24:20.703000,1,1,,Update Call Status Comments from user 46
+M238,factory47,address47,9250,H,2,6,6,number47,number47,number47,number47,name47,name47,name47,,,RESEAERCH & DEVELOPMENT MANAGER (IE MANAGER),12,,1,1,2013-09-24_18:11:53.178000,1,1,,Update Call Status Comments from user 47
+M295,factory48,address48,14000,H,3,0,0,number48,number48,number48,number48,name48,name48,name48,,,HR MANAGER,5,,1,0,,,,,Update Call Status Comments from user 48
+M374,factory49,address49,9250,H,1,0,0,number49,number49,number49,number49,name49,name49,name49,,,,,,1,0,,,,,Update Call Status Comments from user 49
+M389,factory50,address50,14000,H,2,0,0,number50,number50,number50,number50,name50,name50,name50,,,GM,2,,1,0,,,,,Update Call Status Comments from user 50
+M344,factory51,address51,9250,H,2,0,0,number51,number51,number51,number51,name51,name51,name51,,,,,,1,0,,,,,Update Call Status Comments from user 51
+M375,factory52,address52,14000,P,1,20,0,number52,number52,number52,number52,name52,name52,name52,,,MANAGER HR & ADMIN,16,,1,1,2013-09-24_18:11:53.178000,1,,,Update Call Status Comments from user 52
+M395,factory53,address53,14000,H,4,0,0,number53,number53,number53,number53,name53,name53,name53,,,,,,1,0,,,,,Update Call Status Comments from user 53
+M324,factory54,address54,9250,P,4,0,0,number54,number54,number54,number54,name54,name54,name54,,,GM,2,,0,0,,,,,Update Call Status Comments from user 54
+M376,factory55,address55,9250,Q,1,0,0,number55,number55,number55,number55,name55,name55,name55,,,,,,1,0,,,,,Update Call Status Comments from user 55
+M322,factory56,address56,9250,Q,1,7,0,number56,number56,number56,number56,name56,name56,name56,,,HR MANAGER,5,,1,1,2013-09-25_18:07:23.525000,1,,,Update Call Status Comments from user 56
+M382,factory57,address57,9250,Q,1,22,0,number57,number57,number57,number57,name57,name57,name57,,,HR MANAGER,5,wasifknit8@gmail.com,1,1,2013-09-25_18:07:23.525000,1,1,,Update Call Status Comments from user 57
+M387,factory58,address58,14000,P,3,20,0,number58,number58,number58,number58,name58,name58,name58,,,GM ADMIN,8,,1,1,2013-09-26_19:09:27.129000,,,,Update Call Status Comments from user 58
+M397,factory59,address59,14000,Q,6,0,0,number59,number59,number59,number59,name59,name59,name59,,,,,,1,0,,,,,Update Call Status Comments from user 59
+M366,factory60,address60,9250,P,4,0,0,number60,number60,number60,number60,name60,name60,name60,,,,,,1,0,,,,,Update Call Status Comments from user 60
+M413,factory61,address61,14000,Q,2,27,0,number61,number61,number61,number61,name61,name61,name61,,,DGM,2,,1,1,2013-09-25_18:07:23.525000,,,,Update Call Status Comments from user 61
+M484,factory62,address62,9250,P,1,7,2,number62,number62,number62,number62,name62,name62,name62,,,HEAD OF IE,12,,1,1,2013-09-25_18:07:23.525000,1,1,,Update Call Status Comments from user 62
+M427,factory63,address63,14000,P,3,0,0,number63,number63,number63,number63,name63,name63,name63,,,,,,1,0,,,,,Update Call Status Comments from user 63
+M414,factory64,address64,9250,H,6,0,0,number64,number64,number64,number64,name64,name64,name64,,,,,,1,0,,,,,Update Call Status Comments from user 64
+M463,factory65,address65,14000,P,4,0,0,number65,number65,number65,number65,name65,name65,name65,,,,,,1,0,,,,,Update Call Status Comments from user 65
+M453,factory66,address66,14000,H,2,0,0,number66,number66,number66,number66,name66,name66,name66,,,GM ADMIN & COMPLIENCE,10,,1,0,,,,,Update Call Status Comments from user 66
+M424,factory67,address67,9250,P,3,10,0,number67,number67,number67,number67,name67,name67,name67,,,GM,2,,1,1,2013-09-30_17:24:20.703000,1,,,Update Call Status Comments from user 67
+M410,factory68,address68,9250,Q,1,0,0,number68,number68,number68,number68,name68,name68,name68,,,,,,1,0,,,,,Update Call Status Comments from user 68
+M481,factory69,address69,14000,P,6,0,0,number69,number69,number69,number69,name69,name69,name69,,,MD,3,,1,0,,,,,Update Call Status Comments from user 69
+M417,factory70,address70,14000,H,6,0,0,number70,number70,number70,number70,name70,name70,name70,,,,,,1,0,,,,,Update Call Status Comments from user 70
+M435,factory71,address71,14000,H,1,0,0,number71,number71,number71,number71,name71,name71,name71,,,,,,1,0,,,,,Update Call Status Comments from user 71
+M461,factory72,address72,14000,Q,2,13,0,number72,number72,number72,number72,name72,name72,name72,,,COMPLIENCE OFFICER,6,,1,1,2013-09-26_19:09:27.129000,1,,,Update Call Status Comments from user 72
+M505,factory73,address73,14000,H,2,0,0,number73,number73,number73,number73,name73,name73,name73,,,MANAGER ADMIN,8,,1,0,,,,,Update Call Status Comments from user 73
+M539,factory74,address74,14000,P,2,0,0,number74,number74,number74,number74,name74,name74,name74,,,,,,1,0,,,,,Update Call Status Comments from user 74
+M503,factory75,address75,14000,P,5,24,0,number75,number75,number75,number75,name75,name75,name75,,,HR MANAGER,5,,1,1,2013-10-01_18:29:58.211000,,,,Update Call Status Comments from user 75
+M540,factory76,address76,9250,Q,6,3,0,number76,number76,number76,number76,name76,name76,name76,,,GM,2,,1,1,2013-09-26_19:09:27.129000,1,,,Update Call Status Comments from user 76
+M506,factory77,address77,9250,P,2,12,0,number77,number77,number77,number77,name77,name77,name77,,,ADMIN OFFICER,8,,1,1,2013-09-25_18:07:23.525000,1,,,Update Call Status Comments from user 77
+M513,factory78,address78,14000,Q,1,11,0,number78,number78,number78,number78,name78,name78,name78,,,HR MANAGER,5,,1,1,2013-09-25_18:07:23.525000,1,,,Update Call Status Comments from user 78
+M512,factory79,address79,9250,P,6,0,0,number79,number79,number79,number79,name79,name79,name79,,,,,,1,0,,,,,Update Call Status Comments from user 79
+M551,factory80,address80,14000,P,1,0,0,number80,number80,number80,number80,name80,name80,name80,,,,,,1,0,,,,,Update Call Status Comments from user 80
+M517,factory81,address81,14000,H,1,0,0,number81,number81,number81,number81,name81,name81,name81,,,,,,1,0,,,,,Update Call Status Comments from user 81
+M501,factory82,address82,14000,Q,3,15,4,number82,number82,number82,number82,name82,name82,name82,,,COMPLIENCE MANAGER ,6,,1,1,2013-10-01_18:29:58.211000,1,1,,Update Call Status Comments from user 82
+M504,factory83,address83,9250,Q,2,0,0,number83,number83,number83,number83,name83,name83,name83,,,HR MANAGER,5,,1,0,,,,,Update Call Status Comments from user 83
+M530,factory84,address84,9250,P,4,0,0,number84,number84,number84,number84,name84,name84,name84,,,,,,1,0,,,,,Update Call Status Comments from user 84
+M632,factory85,address85,14000,Q,6,5,5,number85,number85,number85,number85,name85,name85,name85,,,DGM HR,5,,1,1,2013-09-26_19:09:27.129000,1,1,,Update Call Status Comments from user 85
+M628,factory86,address86,14000,P,2,0,0,number86,number86,number86,number86,name86,name86,name86,,,,,,1,0,,,,,Update Call Status Comments from user 86
+M625,factory87,address87,9250,P,2,0,0,number87,number87,number87,number87,name87,name87,name87,,,,,,1,0,,,,,Update Call Status Comments from user 87
+M581,factory88,address88,9250,Q,2,8,0,number88,number88,number88,number88,name88,name88,name88,,,SENIOR ADMIN & COMPLIENCE OFFICER,10,,1,1,2013-09-26_19:09:27.129000,1,1,,Update Call Status Comments from user 88
+M599,factory89,address89,9250,Q,3,6,5,number89,number89,number89,number89,name89,name89,name89,,,"AGM HR, ADMIN & COMPLIENCE",16,,1,1,2013-09-26_19:09:27.129000,1,1,,Update Call Status Comments from user 89
+M575,factory90,address90,9250,Q,1,22,0,number90,number90,number90,number90,name90,name90,name90,,,HR MANAGER,5,,1,1,2013-09-26_19:09:27.129000,,,,Update Call Status Comments from user 90
+M602,factory91,address91,14000,Q,4,0,0,number91,number91,number91,number91,name91,name91,name91,,,,,,1,0,,,,,Update Call Status Comments from user 91
+M562,factory92,address92,14000,P,3,7,0,number92,number92,number92,number92,name92,name92,name92,,,SENIOR EXICUTIVE HR,5,,1,1,2013-09-26_19:09:27.129000,1,,,Update Call Status Comments from user 92
+M592,factory93,address93,14000,P,3,18,0,number93,number93,number93,number93,name93,name93,name93,,,GM,2,,1,1,2013-09-26_19:09:27.129000,,,,Update Call Status Comments from user 93
+M565,factory94,address94,9250,P,5,0,0,number94,number94,number94,number94,name94,name94,name94,,,,,,1,0,,,,,Update Call Status Comments from user 94
+M608,factory95,address95,14000,Q,2,10,0,number95,number95,number95,number95,name95,name95,name95,,,GM HR,5,,1,1,2013-09-26_19:09:27.129000,1,,,Update Call Status Comments from user 95
+M626,factory96,address96,14000,Q,1,0,0,number96,number96,number96,number96,name96,name96,name96,,,,,,1,0,,,,,Update Call Status Comments from user 96
